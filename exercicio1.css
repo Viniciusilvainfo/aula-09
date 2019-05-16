@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    font-size: 15px;
+    color: red;
+    border: solid 2px black;
+    max-width: 60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 335px;
+    margin-right: 335px;
+    line-height: 20px;
+}
